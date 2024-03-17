@@ -42,7 +42,7 @@ This project demonstrates Optical Character Recognition (OCR) using the Tesserac
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/OCR-project.git
+    git clone https://github.com/your-username/OCR_basic.git
     ```
 
 2. Navigate to the project directory:
@@ -51,7 +51,7 @@ This project demonstrates Optical Character Recognition (OCR) using the Tesserac
     cd OCR_basic
     ```
 
-3. Open the IPython Notebook file `ocr_project.ipynb`:
+3. Open the IPython Notebook file `OCR.ipynb`:
 
     ```
     jupyter notebook OCR.ipynb
